@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+![Header image](<div align="center"><img src="Banner-Sameh.jpg" width="100%" alt="My Banner"></div>)
 
 <h1 align="center">Hi👋, I'm Sameh Labib</h1>
 
